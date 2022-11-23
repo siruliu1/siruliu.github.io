@@ -32,6 +32,7 @@ I am a postdoctoral research fellow in the Department of Biomedical Informatics 
 ## News 
 
 <ul style="width: auto; height: 300px; overflow: auto">
+  <li> <b>[November, 2022]</b>. Dr. Liu received Travel Funding from WiML @NeurIPS.</li> 
   <li> <b>[November, 2022]</b>. Our paper <i>New Onset Delirium Prediction using Machine Learning and Long Short-term Memory (LSTM) in Electronic Health Record</i> was selected as one of the <a href="http://doctorpenguin.com/selected">top papers of the week</a> by leading researchers in the field.</li> 
   <li> <b>[November, 2022]</b>. Our paper <i>Effectiveness of eHealth Self-management Interventions in Patients With Heart Failure: Systematic Review and Meta-analysis</i> was featured as the scientific article of the month by <a href="https://self-management.eu/blog/scientific-article-of-the-month/">COMPAR-EU</a>.</li>
   <li> <b>[October, 2022]</b>. Our paper <a href="https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocac210/6775898?searchresult=1"><i>New Onset Delirium Prediction using Machine Learning and Long Short-term Memory (LSTM) in Electronic Health Record</i></a> was published in JAMIA.</li>
