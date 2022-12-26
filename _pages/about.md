@@ -32,6 +32,7 @@ I am a postdoctoral research fellow in the Department of Biomedical Informatics 
 ## News 
 
 <ul style="width: auto; height: 300px; overflow: auto">
+  <li> <b>[December, 2022]</b>. Dr. Liu presented <i>Delirium Prediction using Long Short-Term Memory (LSTM) in the Electronic Health Record</i> at NeurIPS in New Orleans!
   <li> <b>[November, 2022]</b>. Dr. Liu was invited to be a member of the Scientific Program Committee (SPC) for the 2023 AMIA AI Evaluation Showcase.</li> 
   <li> <b>[November, 2022]</b>. Dr. Liu received Travel Funding from WiML @NeurIPS.</li> 
   <li> <b>[November, 2022]</b>. Our paper <i>New Onset Delirium Prediction using Machine Learning and Long Short-term Memory (LSTM) in Electronic Health Record</i> was selected as one of the <a href="http://doctorpenguin.com/selected">top papers of the week</a> by leading researchers in the field.</li> 
