@@ -32,6 +32,7 @@ I am a postdoctoral research fellow in the Department of Biomedical Informatics 
 ## News 
 
 <ul style="width: auto; height: 300px; overflow: auto">
+  <li> <b>[Jan, 2023]</b>. Dr. Liu was invited to join the Scientific Program Committee (SPC) for the <a href="https://amia.org/education-events/amia-2023-annual-symposium">AMIA 2023 Annual Symposium</a>!</li>
   <li> <b>[Jan, 2023]</b>. Our paper was featured in <a href="https://news.vumc.org/2023/01/23/machine-learning-predicts-delirium/">VUMC Reporter!</a> </li>
   <li> <b>[Jan, 2023]</b>. Dr. Liu was invited to give a talk in the CDSChat (AMIA Clinical Deicison Support Working Group)! </li>
   <li> <b>[December, 2022]</b>. Dr. Liu presented <i>Delirium Prediction using Long Short-Term Memory (LSTM) in the Electronic Health Record</i> at NeurIPS in New Orleans!</li>
