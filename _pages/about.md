@@ -58,8 +58,8 @@ I am a postdoctoral research fellow in the Department of Biomedical Informatics 
 
 
 ## Service and Committees
-* Senior Program Committee member, AMIA Annual Symposium, 2023
-* Senior Program Committee member, AMIA AI Evaluation Showcase, 2023
+* Scientific Program Committee member, AMIA Annual Symposium, 2023
+* Scientific Program Committee member, AMIA AI Evaluation Showcase, 2023
 * Area Chair, Women in Machine Learning (WiML) Workshop, NeurIPS, 2022
 * Senior Program Committee member, IEEE International Conference on Healthcare Informatics (ICHI), 2022
 * Program Committee member, IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2022, 2021
