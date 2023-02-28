@@ -68,8 +68,10 @@ I am a postdoctoral research fellow in the Department of Biomedical Informatics 
 * Committee member, Diversity Equity and Inclusion, Department of Biomedical Infromatics, Vanderbilt Univeristy Medical Center, 2021, 2022
 
 ## Invited Talks
-* American Medical Informatics Association, Clinical Decision Support Working Group, CDS Chats. (May 4, 2022). “The Potential for Leveraging Machine Learning to Filter Medication Alerts.” 
+* American Medical Informatics Association, Clinical Informatics Systems Working Group, CDS Chats. "New Onset Delirium Prediction using Machine Learning and Long Short-term Memory (LSTM) in Electronic Health Record." (April 5, 2023).
 * American Medical Informatics Association, Clinical Informatics Systems Working Group, CDS Chats. (June 6, 2022). “Machine Learning Applications and Sociotechnical Considerations in Clinical Information Systems.” 
+* American Medical Informatics Association, Clinical Decision Support Working Group, CDS Chats. (May 4, 2022). “The Potential for Leveraging Machine Learning to Filter Medication Alerts.” 
+
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=gkDtTE4gLkPP-0gfMb159XqHXaiOG_8lHVxggmLMedA&cl=ffffff&w=a"></script>
 
