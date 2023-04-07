@@ -32,6 +32,7 @@ I am a postdoctoral research fellow in the Department of Biomedical Informatics 
 ## News 
 
 <ul style="width: auto; height: 300px; overflow: auto">
+  <li> <b>[April, 2023]</b>. Dr. Liu was invited to talk about the applications of large language models (LLMs) and ChatGPT in clinical informatics at Research Colloquium at VUMC!</li>
   <li> <b>[March, 2023]</b>. Dr. Liu was invited to give a lecture about explainable AI (xAI) related to CDS to the <a href="https://medschool.vanderbilt.edu/biomedical-informatics/msaci/">MS in Applied Clinical Informatics (MSACI) program</a> at VUMC!</li>
   <li> <b>[Feb, 2023]</b>. Our new <a href="https://www.medrxiv.org/content/10.1101/2023.02.21.23286254v1">preprint</a> is out! ChatGPT showed promising results for clinical decision support optimization. AI-generated suggestions were highly relevant and offered unique perspectives compared to human-generated suggestions!</li>
   <li> <b>[Jan, 2023]</b>. Dr. Liu was invited to join the Scientific Program Committee (SPC) for the <a href="https://amia.org/education-events/amia-2023-annual-symposium">AMIA 2023 Annual Symposium</a>!</li>
