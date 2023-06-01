@@ -16,6 +16,7 @@ I am a postdoctoral research fellow in the Department of Biomedical Informatics 
 * B.S., Computer Science and Mathematics, Magna Cum Laude with Honors, Univeristy of Arizona, 2015.1 - 2017.5
 
 ## Selected Awards/Honors
+* Postdoc of the Year Award, Vanderbilt University and Vanderbilt University Medical Center, 2023
 * NIH NLM K99/R00 Pathway to Independence Award, 2022
 * American Association of University Women International Fellow, 2022
 * Google Cloud Research Innovator, 2022
