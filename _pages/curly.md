@@ -17,10 +17,10 @@ Curly is an absolute sweetheart, spreading joy by enthusiastically greeting ever
 ## Curly's Adventures
 Curly and I have embarked on countless adventures together.
 
-<img src='/images/IMG_2109.png'>
-<img src='/images/IMG_2437.png'>
-<img src='/images/IMG_3050.png'>
-<img src='/images/IMG_3282.png'>
+<img src='../images/IMG_2109.png'>
+<img src='../images/IMG_2437.png'>
+<img src='../images/IMG_3050.png'>
+<img src='../images/IMG_3282.png'>
 
 
 <!-- 
