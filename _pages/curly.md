@@ -17,11 +17,11 @@ Curly is an absolute sweetheart, spreading joy by enthusiastically greeting ever
 ## Curly's Adventures
 Curly and I have embarked on countless adventures together.
 
----
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
----
+<img src='/images/IMG_2109.png'>
+<img src='/images/IMG_2437.png'>
+<img src='/images/IMG_3050.png'>
+<img src='/images/IMG_3282.png'>
+
 
 <!-- 
 {% if author.googlescholar %}
