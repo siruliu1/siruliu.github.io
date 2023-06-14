@@ -17,18 +17,11 @@ Curly is an absolute sweetheart, spreading joy by enthusiastically greeting ever
 ## Curly's Adventures
 Curly and I have embarked on countless adventures together.
 
-<div class="image-gallery">
-  <div class="grid-item"><img src="../images/IMG_3050.png" alt="Image 1"></div>
-  <div class="grid-item"><img src="../images/IMG_2109.png" alt="Image 2"></div>
-  <div class="grid-item"><img src="../images/IMG_2437.png" alt="Image 3"></div>
-  <div class="grid-item"><img src="../images/IMG_3282.png" alt="Image 3"></div>
-  <!-- Add more grid items as needed -->
-</div>
 
-<!-- <img src='../images/IMG_3050.png' width="500" >
+<img src='../images/IMG_3050.png' width="500" >
 <img src='../images/IMG_2109.png' width="500" >
 <img src='../images/IMG_2437.png' width="500" >
-<img src='../images/IMG_3282.png' width="500" > -->
+<img src='../images/IMG_3282.png' width="500" >
 
 
 <!-- 
