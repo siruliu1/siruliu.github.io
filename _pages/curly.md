@@ -17,6 +17,12 @@ Curly is an absolute sweetheart, spreading joy by enthusiastically greeting ever
 ## Curly's Adventures
 Curly and I have embarked on countless adventures together.
 
+---
+title: "Portfolio item number 1"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+collection: portfolio
+---
+
 <!-- 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
