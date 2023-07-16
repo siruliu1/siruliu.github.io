@@ -34,6 +34,7 @@ I will join the Department of Biomedical Informatics at Vanderbilt University Me
 ## News 
 
 <ul style="width: auto; height: 300px; overflow: auto">
+  <li> <b>[July, 2023]</b>. Our new preprint <a href="https://www.medrxiv.org/content/10.1101/2023.07.14.23292669v1"><i>Leveraging Large Language Models for Generating Responses to Patient Messages</i></a> is out! Leveraging large language models to generate responses to patient messages demonstrates significant potential in facilitating communication between patients and primary care providers.</li>
   <li> <b>[July, 2023]</b>. Our study <i>Assessing the Value of ChatGPT for Clinical Decision Support Optimization</i> was accepted as a podium abstract at AMIA 2023 Annual Symposium! </li>
    <li> <b>[June, 2023]</b>. Our new paper <a href="https://doi.org/10.1016/j.ijmedinf.2023.105136"><i>Leveraging Natural Language Processing to Identify Eligible Lung Cancer Screening Patients with the Electronic Health Record</i></a> was published at International Journal of Medical Informatics! </li>
   <li> <b>[June, 2023]</b>. Dr. Liu was featured in <a href="https://www.vanderbilt.edu/postdoc/2023/06/20/siru-liu-ph-d-july-2023-newsletter-feature/">July 2023 Newsletter</a> at Vanderbilt University. </li>
