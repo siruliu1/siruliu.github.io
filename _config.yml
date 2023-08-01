@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Siru Liu, PhD"
 title_separator          : "-"
 name                     : &name "Siru Liu, PhD"
-description              : &description "Postdoctoral Research Fellow in the Department of Biomedical Informatics at Vanderbilt University Medical Center"
+description              : &description "Assistant Professor in the Department of Biomedical Informatics at Vanderbilt University Medical Center"
 url                      : https://siruliu1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "siruliu1/siruliu1.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Siru Liu"
   avatar           : "Headshot.jpeg"
-  bio              : "NIH NLM K99/R00 Awardee, Postdoctoral Research Fellow, Department of Biomedical Informatics, Vanderbilt University Medical Center"
+  bio              : "Assistant Professor, Department of Biomedical Informatics, Vanderbilt University Medical Center"
   location         : "Nashville, TN"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
