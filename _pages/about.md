@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral research fellow in the Department of Biomedical Informatics at Vanderbilt University Medical Center. I am interested in optimizing electronic health record features and functions, with an emphasis on clinical decision support, leveraging machine learning and large language models to improve healthcare quality, and analyzing public perceptions using social and behavioral science. My research goal is to leverage innovative AI methods to improve healthcare quality and reduce health disparities.  
+I am an Assistant Professor in the Department of Biomedical Informatics at Vanderbilt University Medical Center. I am interested in optimizing electronic health record features and functions, with an emphasis on clinical decision support, leveraging machine learning and large language models to improve healthcare quality, and analyzing public perceptions using social and behavioral science. My research goal is to leverage innovative AI methods to improve healthcare quality and reduce health disparities.  
 
-I will join the Department of Biomedical Informatics at Vanderbilt University Medical Center as a tenure-track assistant professor in August 2023! Looking for students and postdocs passionate about clinical decision support, large language models, and machine learning.
+Looking for students, postdocs, and RAs passionate about clinical decision support, large language models, and machine learning.
 
 ## Education
 * Ph.D., Biomedical Informatics, University of Utah School of Medicine, 2017.8 - 2021.1
