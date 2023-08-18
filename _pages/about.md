@@ -34,6 +34,7 @@ Looking for students, postdocs, and RAs passionate about clinical decision suppo
 ## News 
 
 <ul style="width: auto; height: 300px; overflow: auto">
+  <li> <b>[Aug, 2023]</b>. Our study was featured in <a href = "https://histalk2.com/2023/08/16/healthcare-ai-news-8-16-23/">Healthcare AI News 8/16/23</a>!</li>
   <li> <b>[July, 2023]</b>. Our new preprint <a href="https://www.medrxiv.org/content/10.1101/2023.07.14.23292669v1"><i>Leveraging Large Language Models for Generating Responses to Patient Messages</i></a> is out! Leveraging large language models to generate responses to patient messages demonstrates significant potential in facilitating communication between patients and primary care providers.</li>
   <li> <b>[July, 2023]</b>. Our study <i>Assessing the Value of ChatGPT for Clinical Decision Support Optimization</i> was accepted as a podium abstract at AMIA 2023 Annual Symposium! </li>
    <li> <b>[June, 2023]</b>. Our new paper <a href="https://doi.org/10.1016/j.ijmedinf.2023.105136"><i>Leveraging Natural Language Processing to Identify Eligible Lung Cancer Screening Patients with the Electronic Health Record</i></a> was published at International Journal of Medical Informatics! </li>
