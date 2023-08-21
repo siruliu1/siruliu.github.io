@@ -34,10 +34,19 @@ Curly and I have embarked on countless adventures together.
 
 <div class="row">
   <div class="column">
-    <img src='../images/IMG_3050.png' alt="Snow" style="width:100%">
+    <figure>
+      <img src='../images/IMG_3050.png'  style="width:100%">
+      <figcaption>Fig.1 - Curly with the outdoor sculpture of Martha R. Ingram on the Vanderbilt campus. Martha R. Ingram was the first woman to chair the Vanderbilt Board of Trust. </figcaption>
+    </figure>
+    
   </div>
   <div class="column">
-    <img src='../images/IMG_2109.png' alt="Forest" style="width:100%">
+    <figure>
+      <img src='../images/IMG_2109.png' alt="Forest" style="width:100%">
+      <figcaption>Fig.2 </figcaption>
+
+    </figure>
+    
   </div>
 </div>
 <div class="row"> 
