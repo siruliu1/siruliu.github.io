@@ -42,7 +42,7 @@ Curly and I have embarked on countless adventures together.
   </div>
   <div class="column">
     <figure>
-      <img src='../images/IMG_2109.png' alt="Forest" style="width:100%">
+      <img src='../images/IMG_2109.png' style="width:100%">
       <figcaption>Fig.2 </figcaption>
 
     </figure>
@@ -51,10 +51,16 @@ Curly and I have embarked on countless adventures together.
 </div>
 <div class="row"> 
   <div class="column">
-    <img src='../images/IMG_2437.png' alt="Mountains" style="width:100%">
+     <figure>
+      <img src='../images/IMG_2437.png' style="width:100%">
+      <figcaption>Fig.3 - Curly in the Dogs & Dogwoods Festival at Cheekwood, Nashville, TN.  </figcaption>
+    </figure>
   </div>
    <div class="column">
-    <img src='../images/IMG_3282.png' alt="Mountains" style="width:100%">
+     <figure>
+      <img src='../images/IMG_3282.png' style="width:100%">
+      <figcaption>Fig.4 - Curly in Cloud Gate The Bean in Chicago, IL.  </figcaption>
+    </figure>
   </div>
 </div>
 
