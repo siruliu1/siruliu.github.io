@@ -18,13 +18,23 @@ Curly is an absolute sweetheart, spreading joy by enthusiastically greeting ever
 Curly and I have embarked on countless adventures together.
 
 
-<figure>
-  <img src='../images/IMG_3050.png' width="500" >
-  <figcaption>Fig.1 - Curly with the outdoor sculpture of Martha R. Ingram on the Vanderbilt campus.</figcaption>
-</figure>
-<img src='../images/IMG_2109.png' width="500" >
-<img src='../images/IMG_2437.png' width="500" >
-<img src='../images/IMG_3282.png' width="500" >
+
+<div class="row">
+  <div class="column">
+    <img src='../images/IMG_3050.png' alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src='../images/IMG_2109.png' alt="Forest" style="width:100%">
+  </div>
+</div>
+<div class="row"> 
+  <div class="column">
+    <img src='../images/IMG_2437.png' alt="Mountains" style="width:100%">
+  </div>
+   <div class="column">
+    <img src='../images/IMG_3282.png' alt="Mountains" style="width:100%">
+  </div>
+</div>
 
 
 <!-- 
