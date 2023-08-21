@@ -43,7 +43,7 @@ Curly and I have embarked on countless adventures together.
   <div class="column">
     <figure>
       <img src='../images/IMG_2109.png' style="width:100%">
-      <figcaption>Fig.2 </figcaption>
+      <figcaption>Fig.2 - Curly in a little black dress. </figcaption>
 
     </figure>
     
@@ -64,6 +64,7 @@ Curly and I have embarked on countless adventures together.
   </div>
 </div>
 
+And more!
 
 <!-- 
 {% if author.googlescholar %}
