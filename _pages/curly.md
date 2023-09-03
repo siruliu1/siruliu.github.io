@@ -66,13 +66,13 @@ Curly and I have embarked on countless adventures together.
 <div class="row"> 
   <div class="column">
      <figure>
-      <img src='../images/IMG_4835.png' style="width:100%">
+      <img src='../images/IMG_4835.jpg' style="width:100%">
       <figcaption>Fig.5 - Curly with the Balto Statue in Central Park, New York City, NY.  </figcaption>
     </figure>
   </div>
    <div class="column">
      <figure>
-      <img src='../images/IMG_4949.png' style="width:100%">
+      <img src='../images/IMG_4949.jpg' style="width:100%">
       <figcaption>Fig.6 - Curly with Hans Christian Andersen and the Ugly Duckling in Central Park, New York City, NY.  </figcaption>
     </figure>
   </div>
@@ -81,7 +81,7 @@ Curly and I have embarked on countless adventures together.
 <div class="row"> 
   <div class="column">
      <figure>
-      <img src='../images/IMG_4952.png' style="width:100%">
+      <img src='../images/IMG_4952.jpg' style="width:100%">
       <figcaption>Fig.7 - Curly with the Alice in Wonderland in Central Park, New York City, NY.  </figcaption>
     </figure>
   </div>
