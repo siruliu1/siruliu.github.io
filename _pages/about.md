@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the Department of Biomedical Informatics at Vanderbilt University Medical Center and an Assistant Professor of Computer Science in the Department of Computer Science within the Vanderbilt University School of Engineering. I am interested in optimizing electronic health record features and functions, with an emphasis on clinical decision support, leveraging machine learning and large language models to improve healthcare quality, and analyzing public perceptions using social and behavioral science. My research goal is to leverage innovative AI methods to improve healthcare quality and reduce health disparities.  
+I am Assistant Professor of Biomedical Informatics at Vanderbilt University Medical Center and Assistant Professor of Computer Science at the Vanderbilt University School of Engineering. I am interested in optimizing electronic health record features and functions, with an emphasis on clinical decision support, leveraging machine learning and large language models to improve healthcare quality, and analyzing public perceptions using social and behavioral science. My research goal is to leverage innovative AI methods to improve healthcare quality and reduce health disparities.  
 
 Looking for students, postdocs, and RAs passionate about clinical decision support, large language models, and machine learning.
 
